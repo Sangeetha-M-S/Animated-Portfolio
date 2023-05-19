@@ -35,8 +35,8 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    /* padding: 2rem 9%; */
-    padding: 1.5rem 5%;
+    padding: 2rem 9%;
+    /* padding: 1.5rem 5%; */
     background: transparent;
     display: flex;
     justify-content: space-between;
@@ -581,7 +581,8 @@ span {
 
 .contact {
     min-height: auto;
-    padding: 7rem;
+    /* padding: 7rem; */
+    padding: 2rem 5%;
 }
 
 .contact h2 {
