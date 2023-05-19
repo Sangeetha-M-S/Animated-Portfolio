@@ -580,7 +580,8 @@ span {
 
 .contact {
     min-height: auto;
-    padding: 7rem;
+    /* padding: 7rem; */
+    padding: 2rem 5%;
 }
 
 .contact h2 {
@@ -824,9 +825,9 @@ section:nth-child(odd) .animate.scroll {
         padding: 10rem 4% 5rem 5%;
     }
 
-    /* .contact form .input-box .input-field {
+    .contact form .input-box .input-field {
         width: 100%;
-    } */
+    }
 } 
 
 @media (max-width: 371px) {
