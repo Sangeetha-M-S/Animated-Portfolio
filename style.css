@@ -580,8 +580,7 @@ span {
 
 .contact {
     min-height: auto;
-    /* padding: 7rem; */
-    padding: 2rem 5%;
+    padding: 7rem;
 }
 
 .contact h2 {
